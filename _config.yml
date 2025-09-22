@@ -24,13 +24,13 @@ repository               : "brqtnguyen/brqtnguyen.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Brandon Nguyen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "1st Year PhD student in Electrical Engineering at the University of Texas at Austin"
+  location         : "Austin, Texas"
+  employer         : "The University of Texas at Austin"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "brandon.qt.nguyen [AT] utexas [dot] edu" 
 
   # Academic websites
   academia         : # URL
